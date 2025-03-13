@@ -15,3 +15,5 @@ Read more here: https://pandapower.readthedocs.io/en/v2.0.0/networks.html#
 This example uses the json file **case9.json**, whose data origin is PYPOWER. 
 **NOTE: PandaPower website claims this network was published in Anderson and Fouad’s book ‘Power System Control and Stability’ for the first time in 1980.
 However, this is a modified version of the original network.**
+![image](https://github.com/user-attachments/assets/a4da1035-6e1f-4fcf-8777-d52537b1c773)
+
