@@ -35,6 +35,6 @@ This Jupyter notebook is created to import a pre-existing network model inside P
 
 ## Indicative publications regarding generation costs:
 
-(2022). 	<ins>Cost Functions for Generation Dispatching in Microgrids for Non-Interconnected Zones in Colombia.<ins>  Energies, 15(7), 2418. https://doi.org/10.3390/en15072418] (https://www.mdpi.com/1996-1073/15/7/2418)
+(2022). "Cost Functions for Generation Dispatching in Microgrids for Non-Interconnected Zones in Colombia."  Energies, 15(7), 2418. https://doi.org/10.3390/en15072418] (https://www.mdpi.com/1996-1073/15/7/2418)
 
-L. Nam Hai Pham et al., 	<ins>"Real-Time Cyber-Physical Power System Testbed for Optimal Power Flow Study Using Co-Simulation Framework,"<ins>  in IEEE Access, vol. 12, pp. 150914-150929, 2024, doi: 10.1109/ACCESS.2024.3472748. keywords: {Protocols;Real-time systems;Power systems;Load flow;Power system dynamics;Phasor measurement units;Minimization;IEC Standards;Power system stability;Physical layer;Co-simulation;cyber-physical power system;optimal power flow;real-time simulation} (https://ieeexplore.ieee.org/document/10704672)
+L. Nam Hai Pham et al., "Real-Time Cyber-Physical Power System Testbed for Optimal Power Flow Study Using Co-Simulation Framework,"  in IEEE Access, vol. 12, pp. 150914-150929, 2024, doi: 10.1109/ACCESS.2024.3472748. (https://ieeexplore.ieee.org/document/10704672)
