@@ -32,3 +32,7 @@ Created by: FGL, 13/03/2025
 **GitHub respositorty:**  [https://github.com/fglongatt ](https://github.com/fglongatt) 
 
 This Jupyter notebook is created to import a pre-existing network model inside PandaPower and run an **optimal power flow (OPF)**, showing the numerical results, including the active power losses in the network. 
+
+## Indicative publications regarding generation costs:
+
+[(2022). Cost Functions for Generation Dispatching in Microgrids for Non-Interconnected Zones in Colombia. Energies, 15(7), 2418. https://doi.org/10.3390/en15072418] (https://www.mdpi.com/1996-1073/15/7/2418)
