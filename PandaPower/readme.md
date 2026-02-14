@@ -7,6 +7,7 @@ This section contains a set of Jupyther notebook dedicated to power system analy
 # Example: Run an AC power flow in PandaPower
 
 Created by: FGL, 13/03/2025 
+
 Modified: 14/02/2026
 
 Email: [fglongatt@fglongatt.org](fglongatt@fglongatt.org)
@@ -27,6 +28,7 @@ However, this is a modified version of the original network.**
 
 # Example: Run an Optimal Power Flow (OPF) in PandaPower
 Created by: FGL, 13/03/2025 
+
 Modified: 14/02/2026
 
 **Email:** [fglongatt@fglongatt.org](fglongatt@fglongatt.org)
